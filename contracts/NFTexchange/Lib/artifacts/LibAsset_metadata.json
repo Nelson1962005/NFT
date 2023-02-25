@@ -1,0 +1,98 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "ERC1155_ASSET_CLASS",
+				"outputs": [
+					{
+						"internalType": "bytes4",
+						"name": "",
+						"type": "bytes4"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "ERC20_ASSET_CLASS",
+				"outputs": [
+					{
+						"internalType": "bytes4",
+						"name": "",
+						"type": "bytes4"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "ERC721_ASSET_CLASS",
+				"outputs": [
+					{
+						"internalType": "bytes4",
+						"name": "",
+						"type": "bytes4"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "ETH_ASSET_CLASS",
+				"outputs": [
+					{
+						"internalType": "bytes4",
+						"name": "",
+						"type": "bytes4"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/NFTexchange/Lib/LibAsset.sol": "LibAsset"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/NFTexchange/Lib/LibAsset.sol": {
+			"keccak256": "0x84f3dc7ed7b0dd2117cde1ae01b361cb7063893b1ffff45d21f3b52c981e9f10",
+			"license": "pirate",
+			"urls": [
+				"bzz-raw://798149e500b61cf72faba5b91d15bca79923f9df8e2eb4195d513e5df32184a3",
+				"dweb:/ipfs/QmZsc9e4EAT9pTQHbMq2uL1A97VW8k9ekupazbLnNUiGv2"
+			]
+		}
+	},
+	"version": 1
+}

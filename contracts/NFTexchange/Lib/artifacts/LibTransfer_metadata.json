@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/NFTexchange/Lib/LibTransfer.sol": "LibTransfer"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/NFTexchange/Lib/LibTransfer.sol": {
+			"keccak256": "0xea8e9edbb0e8bedd539f07409f5999986014e1825f08be5be625c51551c750a6",
+			"license": "pirate",
+			"urls": [
+				"bzz-raw://0fb9d5803c6f8e76203b4da22c9a29c523a0dc796e3a7ae6285f703ed4e4629e",
+				"dweb:/ipfs/QmdTwC6XwRcSRJVGCzxZYA9pyV1NncoRWVtktmTgaCcRkp"
+			]
+		}
+	},
+	"version": 1
+}
